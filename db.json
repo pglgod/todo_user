@@ -1,7 +1,10 @@
 {
     "users":[
         {
-            "id":"bjashbj"
+            "id":"bjashbj",
+            "email": "ns@gmail.com",
+            "name": "Naveen Soni",
+            "phone":"1234567890"
         }
     ]
 }
